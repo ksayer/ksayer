@@ -7,7 +7,7 @@ ___TECH STACK___
 * Django
 * Django Rest Framework
 * SQL
-* Celery(Redis/RabitMQ)
+* Celery (Redis/RabbitMQ)
 * HTML
 * CSS
 * Linux
