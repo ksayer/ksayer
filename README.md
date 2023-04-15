@@ -6,12 +6,10 @@ ___TECH STACK___
 * Python
 * Django
 * Django Rest Framework
-* SQL
+* FastAPI
+* PostgreSQL
 * Celery (Redis/RabbitMQ)
-* HTML
-* CSS
+* Docker
+* Nginx
 * Linux
 
-
-
-- 🌱 I’m currently learning Flask
