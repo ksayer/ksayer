@@ -5,7 +5,6 @@ ___TECH STACK___
 
 * Python
 * Django
-* Django Rest Framework
 * FastAPI
 * PostgreSQL
 * Celery (Redis/RabbitMQ)
