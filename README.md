@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Nikolai
-Python Developer
+Software Developer
 
 ___TECH STACK___
 
@@ -12,4 +12,4 @@ ___TECH STACK___
 * Docker
 * Nginx
 * Linux
-
+* NextJS
