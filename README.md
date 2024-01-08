@@ -12,4 +12,7 @@ ___TECH STACK___
 * Docker
 * Nginx
 * Linux
+  
+* TypeScript
+* React
 * NextJS
