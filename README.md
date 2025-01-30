@@ -7,11 +7,14 @@ ___TECH STACK___
 * Django
 * FastAPI
 * PostgreSQL
-* Celery (Redis/RabbitMQ)
+* MongoDB
+* Redis
+* LangChain
 * Docker
 * Nginx
 * Linux
   
 * TypeScript
+* JavaScript
 * React
 * NextJS
